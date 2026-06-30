@@ -49,4 +49,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update EPG Vision generated files"
-          file_pattern: "file_pattern: "generated/*.xml generated/*.m3u providers/*.json"
+          file_pattern: "generated/*.xml generated/*.m3u providers/*.json"
