@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="peacock.info" tvg-name="Peacock Original Info ᴴᴰ" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="EN✦ Peacock Original",Peacock Original Info ᴴᴰ
+http://goiptv.club:80/81696815/96058230/64942.ts
 #EXTINF:-1 tvg-id="peacock.original.01" tvg-name="Peacock Original 1 ᴴᴰ" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="EN✦ Peacock Original",Peacock Original 1 ᴴᴰ
 http://goiptv.club:80/81696815/96058230/64943.ts
 #EXTINF:-1 tvg-id="peacock.original.02" tvg-name="Peacock Original 2 ᴴᴰ" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="EN✦ Peacock Original",Peacock Original 2 ᴴᴰ

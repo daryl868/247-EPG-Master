@@ -1,16 +1,14 @@
-name: Build EPG Vision
+name: Build EPG Vision Studio
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "15 6 * * *"
   push:
     paths:
       - "config/**"
       - "providers/**"
+      - "xmltv/**"
       - "scripts/**"
       - ".github/workflows/build.yml"
-      - "requirements.txt"
 
 permissions:
   contents: write
@@ -18,36 +16,20 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-
-      - name: Install system dependencies
+      - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg tesseract-ocr
-
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
-
+          pip install -r requirements.txt
       - name: Build XMLTV and M3U
         run: python scripts/build_epg.py
-
-      - name: Validate XML
-        run: python scripts/validate_xml.py
-
-      # OCR is disabled by default until profiles are tuned.
-      # Enable later:
-      # - name: Scan streams with OCR
-      #   run: python scripts/scan_streams.py
-
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update EPG Vision generated files"
-          file_pattern: "generated/*.xml generated/*.m3u providers/*.json"
-          pull_options: "--rebase --autostash"
+          commit_message: "Update generated EPG Vision Studio files"
+          file_pattern: "generated/*.xml generated/*.m3u"

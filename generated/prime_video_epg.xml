@@ -2,43 +2,9 @@
 <tv generator-info-name="Prime Video">
   <channel id="prime.video.01">
     <display-name>Prime Video 1 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
   </channel>
   <channel id="prime.video.02">
     <display-name>Prime Video 2 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.03">
-    <display-name>Prime Video 3 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.04">
-    <display-name>Prime Video 4 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.05">
-    <display-name>Prime Video 5 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.06">
-    <display-name>Prime Video 6 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.07">
-    <display-name>Prime Video 7 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.08">
-    <display-name>Prime Video 8 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.09">
-    <display-name>Prime Video 9 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.10">
-    <display-name>Prime Video 10 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
   </channel>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
@@ -48,46 +14,6 @@
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.01">
@@ -100,46 +26,6 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
     <sub-title>Season 1 (2026)</sub-title>
@@ -148,46 +34,6 @@
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.01">
@@ -200,46 +46,6 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
     <sub-title>Season 1 (2026)</sub-title>
@@ -248,46 +54,6 @@
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.01">
@@ -300,46 +66,6 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
     <sub-title>Season 1 (2026)</sub-title>
@@ -348,46 +74,6 @@
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
 </tv>

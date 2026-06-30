@@ -1,1487 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Vision Combined">
-  <channel id="apple.series.01">
-    <display-name>Apple TV+ Series 1 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
+<tv generator-info-name="EPG Vision Studio">
+  <channel id="peacock.info">
+    <display-name>Peacock Original Info ᴴᴰ</display-name>
+    <icon src="https://iili.io/PSF1VV.md.png" />
   </channel>
-  <channel id="apple.series.02">
-    <display-name>Apple TV+ Series 2 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.03">
-    <display-name>Apple TV+ Series 3 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.04">
-    <display-name>Apple TV+ Series 4 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.05">
-    <display-name>Apple TV+ Series 5 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.06">
-    <display-name>Apple TV+ Series 6 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.07">
-    <display-name>Apple TV+ Series 7 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.08">
-    <display-name>Apple TV+ Series 8 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.09">
-    <display-name>Apple TV+ Series 9 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <channel id="apple.series.10">
-    <display-name>Apple TV+ Series 10 ᴴᴰ</display-name>
-    <icon src="https://iili.io/wwppKG.md.png" />
-  </channel>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.01">
-    <title>Monarch: Legacy of Monsters</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.02">
-    <title>Criminal Record</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.03">
-    <title>Your Friends &amp; Neighbors</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.04">
-    <title>Cape Fear</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.05">
-    <title>Imperfect Women</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.06">
-    <title>Margo&#x27;s Got Money Troubles</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.07">
-    <title>Star City</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.08">
-    <title>For All Mankind</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.09">
-    <title>Widow&#x27;s Bay</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.10">
-    <title>Shrinking</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <channel id="netflix.series.01">
-    <display-name>Netflix Series 1 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.02">
-    <display-name>Netflix Series 2 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.03">
-    <display-name>Netflix Series 3 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.04">
-    <display-name>Netflix Series 4 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.05">
-    <display-name>Netflix Series 5 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.06">
-    <display-name>Netflix Series 6 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.07">
-    <display-name>Netflix Series 7 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.08">
-    <display-name>Netflix Series 8 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.09">
-    <display-name>Netflix Series 9 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.10">
-    <display-name>Netflix Series 10 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.11">
-    <display-name>Netflix Series 11 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.12">
-    <display-name>Netflix Series 12 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.13">
-    <display-name>Netflix Series 13 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.14">
-    <display-name>Netflix Series 14 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.series.15">
-    <display-name>Netflix Series 15 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.01">
-    <title>One Piece</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.02">
-    <title>XO, Kitty</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.03">
-    <title>The Boroughs</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.04">
-    <title>A Good Girl&#x27;s Guide To Murder</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.05">
-    <title>Man on Fire</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.06">
-    <title>Legends</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.07">
-    <title>Virgin River</title>
-    <sub-title>Season 7 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.08">
-    <title>Running Point</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.09">
-    <title>The Night Agent</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.10">
-    <title>This is a Gardening Show</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.11">
-    <title>His &amp; Hers</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.12">
-    <title>Seven Dials</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.13">
-    <title>Something Bad Is Going To Happen</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.14">
-    <title>Stranger Things: Tales &#x27;85</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.15">
-    <title>Beef</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <channel id="netflix.premiere.01">
-    <display-name>Netflix Premiere 1 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.02">
-    <display-name>Netflix Premiere 2 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.03">
-    <display-name>Netflix Premiere 3 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.04">
-    <display-name>Netflix Premiere 4 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.05">
-    <display-name>Netflix Premiere 5 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.06">
-    <display-name>Netflix Premiere 6 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.07">
-    <display-name>Netflix Premiere 7 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.08">
-    <display-name>Netflix Premiere 8 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.09">
-    <display-name>Netflix Premiere 9 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.10">
-    <display-name>Netflix Premiere 10 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.11">
-    <display-name>Netflix Premiere 11 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.12">
-    <display-name>Netflix Premiere 12 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.13">
-    <display-name>Netflix Premiere 13 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.01">
-    <title>APEX</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.02">
-    <title>Ladies First</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <channel id="peacock.original.01">
     <display-name>Peacock Original 1 ᴴᴰ</display-name>
     <icon src="https://iili.io/PSF1VV.md.png" />
@@ -1530,6 +52,21 @@
     <display-name>Peacock Original 12 ᴴᴰ</display-name>
     <icon src="https://iili.io/PSF1VV.md.png" />
   </channel>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
+  </programme>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
     <sub-title>Season 1 (2025)</sub-title>
@@ -1589,6 +126,21 @@
     <title>Bel-Air</title>
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
   </programme>
   <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
@@ -1650,6 +202,21 @@
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
+  </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
     <sub-title>Season 1 (2025)</sub-title>
@@ -1709,6 +276,21 @@
     <title>Bel-Air</title>
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
   </programme>
   <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
@@ -1770,6 +352,21 @@
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
+  </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
     <sub-title>Season 1 (2025)</sub-title>
@@ -1829,6 +426,21 @@
     <title>Bel-Air</title>
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
   </programme>
   <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
@@ -1890,6 +502,21 @@
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="peacock.info">
+    <title>Current Lineup</title>
+    <desc>1. The Burbs - Season 1 (2025)
+2. The Traitors - Season 3 (2025)
+3. Twisted Metal - Season 2 (2025)
+4. Poker Face - Season 2 (2025)
+5. Resident Alien - Season 4 (2025)
+6. Those About To Die - Season 1 (2024)
+7. Wolf Like Me - Season 1 (2022)
+8. Based on True Story - Season 1 (2023)
+9. Mr. Throwback - Season 1 (2024)
+10. Fight Night: The Million Heist - Season 1 (2024)
+11. Law &amp; Order: Organized Crime - Season 5 (2025)
+12. Bel-Air - Season 2 (2023)</desc>
+  </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="peacock.original.01">
     <title>The Burbs</title>
     <sub-title>Season 1 (2025)</sub-title>
@@ -1950,81 +577,125 @@
     <sub-title>Season 2 (2023)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
+  <channel id="netflix.series.01">
+    <display-name>Netflix Series 1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="netflix.series.02">
+    <display-name>Netflix Series 2 ᴴᴰ</display-name>
+  </channel>
+  <channel id="netflix.series.03">
+    <display-name>Netflix Series 3 ᴴᴰ</display-name>
+  </channel>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.01">
+    <title>One Piece</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.02">
+    <title>XO, Kitty</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.series.03">
+    <title>The Boroughs</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
   <channel id="hulu.originals.01">
     <display-name>Hulu Originals 1 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
   </channel>
   <channel id="hulu.originals.02">
     <display-name>Hulu Originals 2 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.03">
-    <display-name>Hulu Originals 3 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.04">
-    <display-name>Hulu Originals 4 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.05">
-    <display-name>Hulu Originals 5 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.06">
-    <display-name>Hulu Originals 6 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.07">
-    <display-name>Hulu Originals 7 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.08">
-    <display-name>Hulu Originals 8 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.09">
-    <display-name>Hulu Originals 9 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.10">
-    <display-name>Hulu Originals 10 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.11">
-    <display-name>Hulu Originals 11 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.12">
-    <display-name>Hulu Originals 12 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.13">
-    <display-name>Hulu Originals 13 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.14">
-    <display-name>Hulu Originals 14 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.15">
-    <display-name>Hulu Originals 15 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.16">
-    <display-name>Hulu Originals 16 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.17">
-    <display-name>Hulu Originals 17 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.18">
-    <display-name>Hulu Originals 18 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
-  </channel>
-  <channel id="hulu.originals.19">
-    <display-name>Hulu Originals 19 ᴴᴰ</display-name>
-    <icon src="https://iili.io/hulu.png" />
   </channel>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.01">
     <title>The Testaments</title>
@@ -2032,93 +703,8 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.01">
@@ -2127,93 +713,8 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.01">
@@ -2222,93 +723,8 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.01">
@@ -2317,93 +733,8 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.01">
@@ -2412,93 +743,8 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.01">
@@ -2507,93 +753,8 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.01">
@@ -2602,134 +763,15 @@
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.02">
-    <title>The Secret Lives of Mormon Wives</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.03">
-    <title>Love Story</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.04">
-    <title>Abbott Elementary</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.05">
-    <title>High Potential</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.06">
-    <title>Paradise</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.07">
-    <title>R.J. Decker</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.08">
-    <title>A Thousand Blows</title>
-    <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.09">
-    <title>Vanderpump Villa</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.10">
-    <title>Tell Me Lies</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.11">
-    <title>Devil in the Family: The Fall of Ruby Franke</title>
-    <sub-title>Season 5 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.12">
     <title>Paradise</title>
     <sub-title>Movie (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.13">
-    <title>Accused</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.14">
-    <title>The Lowdown</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.15">
-    <title>The Old Man</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.16">
-    <title>Deli Boys</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.17">
-    <title>The Cleaning Lady</title>
-    <sub-title>Season 4 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.18">
-    <title>The Kardashians</title>
-    <sub-title>Season 6 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="hulu.originals.19">
-    <title>Chad Powers</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <channel id="prime.video.01">
     <display-name>Prime Video 1 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
   </channel>
   <channel id="prime.video.02">
     <display-name>Prime Video 2 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.03">
-    <display-name>Prime Video 3 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.04">
-    <display-name>Prime Video 4 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.05">
-    <display-name>Prime Video 5 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.06">
-    <display-name>Prime Video 6 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.07">
-    <display-name>Prime Video 7 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.08">
-    <display-name>Prime Video 8 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.09">
-    <display-name>Prime Video 9 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
-  </channel>
-  <channel id="prime.video.10">
-    <display-name>Prime Video 10 ᴴᴰ</display-name>
-    <icon src="https://iili.io/primevideo.png" />
   </channel>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
@@ -2739,46 +781,6 @@
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.01">
@@ -2791,46 +793,6 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
     <sub-title>Season 1 (2026)</sub-title>
@@ -2839,46 +801,6 @@
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.01">
@@ -2891,46 +813,6 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
     <sub-title>Season 1 (2026)</sub-title>
@@ -2939,46 +821,6 @@
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.02">
     <title>Citadel</title>
     <sub-title>Season 2 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.01">
@@ -2991,46 +833,6 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.01">
     <title>Spider-Noir</title>
     <sub-title>Season 1 (2026)</sub-title>
@@ -3041,165 +843,163 @@
     <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.03">
-    <title>The Boys</title>
-    <sub-title>Season 5 (2026)</sub-title>
+  <channel id="apple.series.01">
+    <display-name>Apple TV+ Series 1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="apple.series.02">
+    <display-name>Apple TV+ Series 2 ᴴᴰ</display-name>
+  </channel>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.04">
-    <title>Young Sherlock</title>
-    <sub-title>Season 1 (2026)</sub-title>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.05">
-    <title>Off Campus</title>
-    <sub-title>Season 1 (2026)</sub-title>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.06">
-    <title>Good Omens</title>
-    <sub-title>Season 3 (2026)</sub-title>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.07">
-    <title>Lazarus</title>
-    <sub-title>Season 2 (2025)</sub-title>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.08">
-    <title>Invincible</title>
-    <sub-title>Season 4 (2026)</sub-title>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.09">
-    <title>Terminal List: Dark Wolf</title>
-    <sub-title>Season 1 (2025)</sub-title>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="prime.video.10">
-    <title>Scarpetta</title>
-    <sub-title>Season 1 (2026)</sub-title>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.01">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="apple.series.02">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <channel id="netflix.premiere.01">
+    <display-name>Netflix Premiere 1 ᴴᴰ</display-name>
+  </channel>
+  <channel id="netflix.premiere.02">
+    <display-name>Netflix Premiere 2 ᴴᴰ</display-name>
+  </channel>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.01">
+    <title>APEX</title>
+    <sub-title>Movie (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.02">
+    <title>Ladies First</title>
+    <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <channel id="skystore.premiere.01">
     <display-name>Sky Store Premiere 1 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
   </channel>
   <channel id="skystore.premiere.02">
     <display-name>Sky Store Premiere 2 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.03">
-    <display-name>Sky Store Premiere 3 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.04">
-    <display-name>Sky Store Premiere 4 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.05">
-    <display-name>Sky Store Premiere 5 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.06">
-    <display-name>Sky Store Premiere 6 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.07">
-    <display-name>Sky Store Premiere 7 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.08">
-    <display-name>Sky Store Premiere 8 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.09">
-    <display-name>Sky Store Premiere 9 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.10">
-    <display-name>Sky Store Premiere 10 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.11">
-    <display-name>Sky Store Premiere 11 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.12">
-    <display-name>Sky Store Premiere 12 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.13">
-    <display-name>Sky Store Premiere 13 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.14">
-    <display-name>Sky Store Premiere 14 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.15">
-    <display-name>Sky Store Premiere 15 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.16">
-    <display-name>Sky Store Premiere 16 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.17">
-    <display-name>Sky Store Premiere 17 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.18">
-    <display-name>Sky Store Premiere 18 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.19">
-    <display-name>Sky Store Premiere 19 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.20">
-    <display-name>Sky Store Premiere 20 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.21">
-    <display-name>Sky Store Premiere 21 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.22">
-    <display-name>Sky Store Premiere 22 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.23">
-    <display-name>Sky Store Premiere 23 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.24">
-    <display-name>Sky Store Premiere 24 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.25">
-    <display-name>Sky Store Premiere 25 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.26">
-    <display-name>Sky Store Premiere 26 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.27">
-    <display-name>Sky Store Premiere 27 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.28">
-    <display-name>Sky Store Premiere 28 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.29">
-    <display-name>Sky Store Premiere 29 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
-  </channel>
-  <channel id="skystore.premiere.30">
-    <display-name>Sky Store Premiere 30 ᴴᴰ</display-name>
-    <icon src="https://iili.io/skystore.png" />
   </channel>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.01">
     <title>Mortal Kombat II</title>
@@ -3208,146 +1008,6 @@
   </programme>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.02">
     <title>Michael</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
@@ -3361,146 +1021,6 @@
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.01">
     <title>Mortal Kombat II</title>
     <sub-title>Movie (2026)</sub-title>
@@ -3508,146 +1028,6 @@
   </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.02">
     <title>Michael</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
@@ -3661,146 +1041,6 @@
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.01">
     <title>Mortal Kombat II</title>
     <sub-title>Movie (2026)</sub-title>
@@ -3808,146 +1048,6 @@
   </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.02">
     <title>Michael</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
@@ -3961,146 +1061,6 @@
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.01">
     <title>Mortal Kombat II</title>
     <sub-title>Movie (2026)</sub-title>
@@ -4108,146 +1068,6 @@
   </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.02">
     <title>Michael</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.03">
-    <title>The Mummy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.04">
-    <title>The Magic Faraway Tree</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.05">
-    <title>In The Grey</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.06">
-    <title>Mother Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.07">
-    <title>Seven Snipers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.08">
-    <title>Over Your Dead Body</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.09">
-    <title>Is God Is</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.10">
-    <title>Hokum</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.11">
-    <title>Jack Ryan: Ghost War</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.12">
-    <title>They Will Kill You</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.13">
-    <title>The Drama</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.14">
-    <title>Outcome</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.15">
-    <title>Project Hail Mary</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.16">
-    <title>How To Make A Killing</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.17">
-    <title>Balls Up</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.18">
-    <title>The Bride!</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.19">
-    <title>Do Not Enter</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.20">
-    <title>Solo Mio</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.21">
-    <title>Hoppers</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.22">
-    <title>The Punisher: One Last Kill</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.23">
-    <title>Brothers Under Fire</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.24">
-    <title>Psycho Killer</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.25">
-    <title>Mike Nick Nick Alice</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.26">
-    <title>GOAT</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.27">
-    <title>Reminders of Him</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.28">
-    <title>Ready Or Not 2</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.29">
-    <title>Super Mario Galaxy</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="skystore.premiere.30">
-    <title>Forbidden Fruits</title>
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>

@@ -2,55 +2,9 @@
 <tv generator-info-name="Netflix Premiere">
   <channel id="netflix.premiere.01">
     <display-name>Netflix Premiere 1 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
   </channel>
   <channel id="netflix.premiere.02">
     <display-name>Netflix Premiere 2 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.03">
-    <display-name>Netflix Premiere 3 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.04">
-    <display-name>Netflix Premiere 4 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.05">
-    <display-name>Netflix Premiere 5 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.06">
-    <display-name>Netflix Premiere 6 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.07">
-    <display-name>Netflix Premiere 7 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.08">
-    <display-name>Netflix Premiere 8 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.09">
-    <display-name>Netflix Premiere 9 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.10">
-    <display-name>Netflix Premiere 10 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.11">
-    <display-name>Netflix Premiere 11 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.12">
-    <display-name>Netflix Premiere 12 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
-  </channel>
-  <channel id="netflix.premiere.13">
-    <display-name>Netflix Premiere 13 ᴴᴰ</display-name>
-    <icon src="https://logo.m3uassets.com/netflixseries1.png" />
   </channel>
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.01">
     <title>APEX</title>
@@ -60,61 +14,6 @@
   <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.02">
     <title>Ladies First</title>
     <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260630000000 -0400" stop="20260701000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.01">
@@ -127,61 +26,6 @@
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260701000000 -0400" stop="20260702000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.01">
     <title>APEX</title>
     <sub-title>Movie (2026)</sub-title>
@@ -190,61 +34,6 @@
   <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.02">
     <title>Ladies First</title>
     <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260702000000 -0400" stop="20260703000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.01">
@@ -257,61 +46,6 @@
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260703000000 -0400" stop="20260704000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.01">
     <title>APEX</title>
     <sub-title>Movie (2026)</sub-title>
@@ -320,61 +54,6 @@
   <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.02">
     <title>Ladies First</title>
     <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260704000000 -0400" stop="20260705000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
   <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.01">
@@ -387,61 +66,6 @@
     <sub-title>Movie (2026)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260705000000 -0400" stop="20260706000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.01">
     <title>APEX</title>
     <sub-title>Movie (2026)</sub-title>
@@ -450,61 +74,6 @@
   <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.02">
     <title>Ladies First</title>
     <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.03">
-    <title>Office Romance</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.04">
-    <title>Roommates</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.05">
-    <title>Remarkable Bright Creaturez</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.06">
-    <title>People We Meet on Vacation</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.07">
-    <title>Peaky Blinders: The Immortal Man</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.08">
-    <title>Joe&#x27;s College Road Trip</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.09">
-    <title>18th Rose</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.10">
-    <title>Thrash</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.11">
-    <title>The Ripp</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.12">
-    <title>War Machine</title>
-    <sub-title>Movie (2026)</sub-title>
-    <desc>24/7 channel</desc>
-  </programme>
-  <programme start="20260706000000 -0400" stop="20260707000000 -0400" channel="netflix.premiere.13">
-    <title>Wake Up Dead Man</title>
-    <sub-title>Movie (2025)</sub-title>
     <desc>24/7 channel</desc>
   </programme>
 </tv>
