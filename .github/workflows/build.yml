@@ -50,3 +50,4 @@ jobs:
         with:
           commit_message: "Update EPG Vision generated files"
           file_pattern: "generated/*.xml generated/*.m3u providers/*.json"
+          pull_options: "--rebase --autostash"
