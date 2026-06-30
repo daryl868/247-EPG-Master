@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OCR Debug
+debug/
+test.png
+
+# Virtual Environment
+venv/
+.env
+
+# macOS
+.DS_Store
