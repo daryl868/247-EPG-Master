@@ -19,8 +19,8 @@
       "subtitle": "Season 1 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "THE BURBS9)",
-      "last_ocr_confidence": 46.5,
+      "last_ocr_text": "THE BURBSe2)",
+      "last_ocr_confidence": 46.0,
       "last_changed": "",
       "history": []
     },
@@ -32,8 +32,8 @@
       "subtitle": "Season 3 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "Akh",
-      "last_ocr_confidence": 32.0,
+      "last_ocr_text": "PRATER.",
+      "last_ocr_confidence": 30.0,
       "last_changed": "",
       "history": []
     },
@@ -45,8 +45,8 @@
       "subtitle": "Season 2 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "M.1.A 2076)",
-      "last_ocr_confidence": 61.0,
+      "last_ocr_text": "M.1.A 2026)",
+      "last_ocr_confidence": 64.5,
       "last_changed": "",
       "history": []
     },
@@ -58,8 +58,8 @@
       "subtitle": "Season 2 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "Proven",
-      "last_ocr_confidence": 32.0,
+      "last_ocr_text": "POKER FACE 975)",
+      "last_ocr_confidence": 65.33,
       "last_changed": "",
       "history": []
     },
@@ -67,13 +67,13 @@
       "id": "peacock.original.05",
       "name": "Peacock Original 5 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64947.ts",
-      "show": "The Traitors O2",
+      "show": "The Traitors",
       "subtitle": "Season 4 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "Bp earons",
-      "last_ocr_confidence": 6.5,
-      "last_changed": "2026-06-30T21:34:53.635870Z",
+      "last_ocr_text": "THE TRAITORS 22",
+      "last_ocr_confidence": 66.33,
+      "last_changed": "2026-06-30T23:14:02.422204Z",
       "history": [
         {
           "old": "Resident Alien",
@@ -84,6 +84,11 @@
           "old": "The Traitors 22",
           "new": "The Traitors O2",
           "changed_at": "2026-06-30T21:34:53.635766Z"
+        },
+        {
+          "old": "The Traitors O2",
+          "new": "The Traitors",
+          "changed_at": "2026-06-30T23:14:02.422139Z"
         }
       ]
     },
@@ -95,8 +100,8 @@
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "BEL-AIR 025)",
-      "last_ocr_confidence": 56.5,
+      "last_ocr_text": "BEL-AIR o25)",
+      "last_ocr_confidence": 44.0,
       "last_changed": "2026-06-30T21:35:20.715126Z",
       "history": [
         {
@@ -120,7 +125,7 @@
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "THE COPENHAG:",
-      "last_ocr_confidence": 47.0,
+      "last_ocr_confidence": 45.5,
       "last_changed": "2026-06-30T21:46:33.984455Z",
       "history": [
         {
@@ -148,8 +153,8 @@
       "subtitle": "Season 1 (2023)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "TAUE STORY (2023)",
-      "last_ocr_confidence": 91.0,
+      "last_ocr_text": "oY, A",
+      "last_ocr_confidence": 26.0,
       "last_changed": "2026-06-30T22:02:22.700393Z",
       "history": [
         {
@@ -167,8 +172,8 @@
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "PONIES (2026)",
-      "last_ocr_confidence": 90.0,
+      "last_ocr_text": "PONIES 026)",
+      "last_ocr_confidence": 65.0,
       "last_changed": "2026-06-30T22:02:41.794091Z",
       "history": [
         {
@@ -191,8 +196,8 @@
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "WEED...",
-      "last_ocr_confidence": 34.0,
+      "last_ocr_text": "METAL 2",
+      "last_ocr_confidence": 24.5,
       "last_changed": "",
       "history": []
     },
@@ -204,8 +209,8 @@
       "subtitle": "Season 5 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "",
-      "last_ocr_confidence": 0.0,
+      "last_ocr_text": "LENE PRICHT",
+      "last_ocr_confidence": 36.5,
       "last_changed": "2026-06-30T21:37:02.777398Z",
       "history": [
         {
@@ -224,7 +229,7 @@
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "BEL-AIR (2023)",
-      "last_ocr_confidence": 95.0,
+      "last_ocr_confidence": 95.5,
       "last_changed": "",
       "history": []
     }
