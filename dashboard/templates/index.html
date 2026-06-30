@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <title>EPG Vision</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #101820; color: #f2f2f2; }
+    table { border-collapse: collapse; width: 100%; background: #182533; }
+    td, th { padding: 12px; border-bottom: 1px solid #2b3b4f; }
+    h1 { color: #62d6ff; }
+  </style>
+</head>
+<body>
+  <h1>EPG Vision</h1>
+  <table>
+    <tr><th>Provider</th><th>Channels</th><th>XML</th><th>M3U</th></tr>
+    {% for p in providers %}
+    <tr>
+      <td>{{ p.label }}</td>
+      <td>{{ p.channels }}</td>
+      <td>{{ p.output_xml }}</td>
+      <td>{{ p.output_m3u }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
