@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "id": "apple",
+      "path": "providers/apple.json"
+    },
+    {
+      "id": "netflix_series",
+      "path": "providers/netflix_series.json"
+    },
+    {
+      "id": "netflix_premiere",
+      "path": "providers/netflix_premiere.json"
+    },
+    {
+      "id": "peacock",
+      "path": "providers/peacock.json"
+    },
+    {
+      "id": "hulu",
+      "path": "providers/hulu.json"
+    },
+    {
+      "id": "prime",
+      "path": "providers/prime.json"
+    },
+    {
+      "id": "skystore",
+      "path": "providers/skystore.json"
+    }
+  ]
+}

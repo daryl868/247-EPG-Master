@@ -1,0 +1,62 @@
+{
+  "auto": {
+    "description": "Fallback full-frame OCR for tuning only",
+    "crop": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "threshold": 165,
+    "psm": 6,
+    "scale": 2
+  },
+  "top_left_list": {
+    "description": "Text list near top-left or left side",
+    "crop": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 0.55,
+      "h": 0.65
+    },
+    "threshold": 165,
+    "psm": 6,
+    "scale": 2
+  },
+  "bottom_left_title": {
+    "description": "Title text near bottom-left",
+    "crop": {
+      "x": 0.0,
+      "y": 0.6,
+      "w": 0.7,
+      "h": 0.38
+    },
+    "threshold": 165,
+    "psm": 6,
+    "scale": 2
+  },
+  "full_left_list": {
+    "description": "Full left-side provider listing",
+    "crop": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 0.6,
+      "h": 1.0
+    },
+    "threshold": 165,
+    "psm": 6,
+    "scale": 2
+  },
+  "full_screen_list": {
+    "description": "Full screen for providers with split left/right lists",
+    "crop": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "threshold": 165,
+    "psm": 6,
+    "scale": 2
+  }
+}
