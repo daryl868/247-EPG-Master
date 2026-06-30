@@ -2,7 +2,7 @@
   "project_name": "EPG Vision",
   "timezone_offset": "-0400",
   "days": 7,
-  "programme_block_hours": 1,
+  "programme_block_hours": 24,
   "generated_dir": "generated",
   "combined_xml": "all_247_epg.xml",
   "combined_m3u": "all_247.m3u",
