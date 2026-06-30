@@ -9,8 +9,8 @@
   "default_logo": "",
   "ocr": {
     "enabled": false,
-    "frames_per_stream": 5,
-    "frame_interval_seconds": 8,
+    "frames_per_stream": 3,
+    "frame_interval_seconds": 10,
     "minimum_confidence": 55,
     "keep_previous_on_low_confidence": true
   }
