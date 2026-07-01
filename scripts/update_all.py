@@ -20,6 +20,7 @@ def run(cmd):
     subprocess.run(cmd, cwd=ROOT, check=True)
 
 def main():
+    run([sys.executable, "scripts/build_global_titles.py"])
     for provider in PROVIDERS:
         path = ROOT / provider
         if not path.exists():

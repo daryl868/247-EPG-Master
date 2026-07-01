@@ -5,3 +5,19 @@
     "NICE BURBS": "The Burbs"
   }
 }
+
+"THE COPENHAG": "The Copenhagen Cowboy",
+"THE COPENHAGI": "The Copenhagen Cowboy",
+"THE COPENHAGEN": "The Copenhagen Cowboy",
+"THE TRAITORS 22": "The Traitors",
+"BEL-AIR 025": "Bel-Air"{
+  "corrections": {
+    "BURBS": "The Burbs",
+
+    "COPENHAG": "The Copenhagen Cowboy",
+
+    "TRAITORS 22": "The Traitors",
+
+    "BEL-AIR 025": "Bel-Air"
+  }
+}

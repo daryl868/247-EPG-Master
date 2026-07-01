@@ -8,6 +8,9 @@ def clean_title(text: str, corrections: dict | None = None) -> str:
     text = re.sub(r"[^A-Z0-9 '&:.-]", " ", text)
     text = re.sub(r"\s+", " ", text).strip(" -:|")
 
+    # Remove trailing OCR numbers like THE TRAITORS 22 or BEL-AIR 025
+    text = re.sub(r"\s+\d{1,3}$", "", text).strip()
+
     for wrong, right in corrections.items():
         if wrong.upper() in text:
             return right
