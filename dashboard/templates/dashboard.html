@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>EPG Vision Studio v2.0</h1>
+
+<div class="stats">
+    <div class="stat"><span>{{ stats.providers }}</span><label>Providers</label></div>
+    <div class="stat"><span>{{ stats.channels }}</span><label>Channels</label></div>
+    <div class="stat"><span>{{ stats.ocr_enabled }}</span><label>OCR Enabled</label></div>
+    <div class="stat"><span>{{ stats.xml_files }}</span><label>XML Files</label></div>
+    <div class="stat"><span>{{ stats.metadata_cache }}</span><label>Metadata Cache</label></div>
+    <div class="stat"><span>{{ stats.corrections }}</span><label>Corrections</label></div>
+</div>
+
+<div class="grid">
+    <div class="card">
+        <h2>System Health</h2>
+        <p class="ok">● Dashboard Online</p>
+        <p class="ok">● Cron {{ stats.cron }}</p>
+        <p class="ok">● Git Branch: {{ stats.branch }}</p>
+        <p class="muted">Last Commit: {{ stats.last_commit }}</p>
+    </div>
+
+    <div class="card">
+        <h2>Quick Actions</h2>
+        <a class="button green" href="/actions/run-update">Run OCR / Build / Publish</a>
+        <a class="button blue" href="/actions/validate">Validate XML</a>
+        <a class="button" href="/providers/">View Providers</a>
+        <a class="button" href="/logs/">View Logs</a>
+    </div>
+</div>
+
+<div class="card wide">
+    <h2>Provider Health</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Provider</th>
+                <th>File</th>
+                <th>Channels</th>
+                <th>OCR Enabled</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for p in providers %}
+            <tr>
+                <td>{{ p.label }}</td>
+                <td>{{ p.file }}</td>
+                <td>{{ p.channels }}</td>
+                <td>{{ p.ocr_enabled }}</td>
+                <td class="ok">{{ p.status }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="grid">
+    <div class="card">
+        <h2>Generated XML</h2>
+        {% for xml in xml_files %}
+            <p>{{ xml }}</p>
+        {% endfor %}
+    </div>
+
+    <div class="card">
+        <h2>Git Status</h2>
+        <pre>{{ git_status }}</pre>
+    </div>
+</div>
+
+<div class="card wide">
+    <h2>Recent Automation Log</h2>
+    <pre>{{ logs }}</pre>
+</div>
+{% endblock %}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Providers</h1>
+
+<div class="card">
+    <table>
+        <thead>
+            <tr>
+                <th>Provider</th>
+                <th>File</th>
+                <th>Channels</th>
+                <th>OCR Enabled</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for p in providers %}
+            <tr>
+                <td>{{ p.label }}</td>
+                <td>{{ p.file }}</td>
+                <td>{{ p.channels }}</td>
+                <td>{{ p.ocr_enabled }}</td>
+                <td class="ok">Online</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

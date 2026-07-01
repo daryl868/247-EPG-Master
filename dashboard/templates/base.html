@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <title>EPG Vision Studio</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <aside class="sidebar">
+        <h2>EPG Vision</h2>
+        <a href="/">Dashboard</a>
+        <a href="/providers/">Providers</a>
+        <a href="/logs/">Logs</a>
+        <a href="/actions/run-update">Run Update</a>
+        <a href="/actions/validate">Validate XML</a>
+    </aside>
+
+    <main class="content">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>
