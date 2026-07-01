@@ -42,8 +42,8 @@
  <td id="confidence-{{ c.provider_file }}-{{ c.channel_index }}">
     {% if c.latest %}
         <div class="progress">
-            <div class="progress-fill" style="width: {{ c.latest.confidence }}%;">
-                {{ "%.1f"|format(c.latest.confidence) }}%
+            <div class="progress-fill" style="width: {{ c.latest.confidence | default(0) }}%;">
+                {{ "%.1f"|format(c.latest.confidence | default(0) | float) }}%
             </div>
         </div>
     {% endif %}
