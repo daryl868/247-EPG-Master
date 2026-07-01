@@ -11,6 +11,52 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def load_json(path: Path):
     return json.loads(path.read_text(encoding="utf-8"))
+def choose_best_ocr_result(results):
+    if not results:
+        return {}
+
+    grouped = {}
+
+    for result in results:
+        clean = result.get("clean", "").strip()
+        conf = float(result.get("confidence", 0))
+
+        if not clean:
+            continue
+
+        if clean not in grouped:
+            grouped[clean] = {
+                "clean": clean,
+                "count": 0,
+                "total_confidence": 0,
+                "best": result
+            }
+
+        grouped[clean]["count"] += 1
+        grouped[clean]["total_confidence"] += conf
+
+        if conf > grouped[clean]["best"].get("confidence", 0):
+            grouped[clean]["best"] = result
+
+    if not grouped:
+        return max(results, key=lambda r: r.get("confidence", 0))
+
+    winner = max(
+        grouped.values(),
+        key=lambda x: (
+            x["count"],
+            x["total_confidence"] / x["count"]
+        )
+    )
+
+    best = winner["best"]
+    best["vote_count"] = winner["count"]
+    best["vote_avg_confidence"] = round(
+        winner["total_confidence"] / winner["count"],
+        2
+    )
+
+    return best
 
 def test_channel(provider_path: str, channel_index: int = 0) -> dict:
     settings = load_json(ROOT / "config/settings.json")
@@ -61,7 +107,7 @@ def test_channel(provider_path: str, channel_index: int = 0) -> dict:
             "crop": str(crop_path)
         })
 
-    best = max(results, key=lambda r: r["confidence"]) if results else {}
+    best = choose_best_ocr_result(results)
 
     return {
         "channel": channel["name"],
