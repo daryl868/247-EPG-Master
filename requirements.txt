@@ -2,3 +2,4 @@ pillow
 pytesseract
 flask
 requests
+requests
