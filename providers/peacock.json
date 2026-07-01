@@ -108,13 +108,13 @@
       "id": "peacock.original.05",
       "name": "Peacock Original 5 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64947.ts",
-      "show": "The Traitors O2",
+      "show": "The Traitors 22",
       "subtitle": "Season 4 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "i,",
       "last_ocr_confidence": 0.0,
-      "last_changed": "2026-07-01T18:02:19.470800Z",
+      "last_changed": "2026-07-01T18:31:48.194806Z",
       "history": [
         {
           "old": "Resident Alien",
@@ -155,6 +155,11 @@
           "old": "The Traitors",
           "new": "The Traitors O2",
           "changed_at": "2026-07-01T18:02:19.470770Z"
+        },
+        {
+          "old": "The Traitors O2",
+          "new": "The Traitors 22",
+          "changed_at": "2026-07-01T18:31:48.194756Z"
         }
       ],
       "last_ocr_clean": "I",
