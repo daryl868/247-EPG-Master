@@ -10,10 +10,9 @@ import traceback
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from dashboard.services.db_service import record_ocr_result
-
 from ocr.engine import test_channel
 from processing.matcher import match_title
+from dashboard.services.db_service import record_ocr_result
 
 
 provider_arg = sys.argv[1] if len(sys.argv) > 1 else "providers/peacock.json"
@@ -33,16 +32,43 @@ known_titles = json.loads(
 print(f"Loaded {len(known_titles)} known titles.")
 changes = 0
 
-print(f"\nScanning provider: {provider['label']}")
+print(f"\nScanning provider: {provider.get('label', provider_arg)}")
 print("=" * 60)
 
-for idx, channel in enumerate(provider["channels"]):
+
+def calculate_score(confidence, match_score, vote_count, vote_avg):
+    score = 0
+
+    if confidence >= 80:
+        score += 30
+    elif confidence >= 50:
+        score += 20
+    elif confidence >= 35:
+        score += 10
+
+    if match_score >= 95:
+        score += 40
+    elif match_score >= 85:
+        score += 25
+    elif match_score >= 75:
+        score += 10
+
+    if vote_count >= 2:
+        score += 20
+
+    if vote_avg >= 75:
+        score += 10
+
+    return score
+
+
+for idx, channel in enumerate(provider.get("channels", [])):
 
     if not channel.get("ocr_enabled", False):
-        print(f"Skipping {channel['name']} (OCR disabled)")
+        print(f"Skipping {channel.get('name', idx)} (OCR disabled)")
         continue
 
-    print(f"\n[{idx + 1}/{len(provider['channels'])}] {channel['name']}")
+    print(f"\n[{idx + 1}/{len(provider.get('channels', []))}] {channel.get('name', idx)}")
 
     try:
         result = test_channel(provider_arg, idx)
@@ -57,6 +83,8 @@ for idx, channel in enumerate(provider["channels"]):
         vote_count = int(best.get("vote_count", 1))
         vote_avg = float(best.get("vote_avg_confidence", confidence))
 
+        score = calculate_score(confidence, match_score, vote_count, vote_avg)
+
         print(f" OCR Raw       : {raw_title}")
         print(f" OCR Clean     : {clean_title}")
         print(f" Match         : {matched_title}")
@@ -64,43 +92,16 @@ for idx, channel in enumerate(provider["channels"]):
         print(f" OCR Conf      : {confidence}")
         print(f" Vote Count    : {vote_count}")
         print(f" Vote Avg Conf : {vote_avg}")
-
-        channel["last_ocr_text"] = raw_title
-        channel["last_ocr_confidence"] = confidence
-        channel["last_ocr_clean"] = clean_title
-        channel["last_ocr_match"] = matched_title
-        channel["last_ocr_match_score"] = match_score
-        channel["last_ocr_vote_count"] = vote_count
-        channel["last_ocr_vote_avg_confidence"] = vote_avg
-
-        score = 0
-
-        if confidence >= 80:
-            score += 30
-        elif confidence >= 50:
-            score += 20
-        elif confidence >= 35:
-            score += 10
-
-        if match_score >= 95:
-            score += 40
-        elif match_score >= 85:
-            score += 25
-        elif match_score >= 75:
-            score += 10
-
-        if vote_count >= 2:
-            score += 20
-
-        if vote_avg >= 75:
-            score += 10
-
         print(f" Decision Score: {score}")
 
+        decision = "REJECT"
+
         if score >= 70:
+            decision = "ACCEPT"
             print(" Decision      : ACCEPT")
 
         elif score >= 50:
+            decision = "VERIFY"
             print(" Decision      : VERIFY WITH TMDB")
 
             try:
@@ -113,19 +114,36 @@ for idx, channel in enumerate(provider["channels"]):
                     matched_title = tmdb_result["title"]
                     print(f" TMDB Verified : {matched_title}")
                 else:
-                    print(" Skipped (TMDB could not verify)")
-                    continue
+                    print(" Decision      : REJECT - TMDB could not verify")
+                    decision = "REJECT"
 
             except Exception as ex:
-                print(f" Skipped (TMDB verification failed: {ex})")
-                continue
+                print(f" Decision      : REJECT - TMDB verification failed: {ex}")
+                decision = "REJECT"
 
         else:
             print(" Decision      : REJECT")
+
+        # Runtime OCR result goes to SQLite only.
+        # Do NOT write last_ocr_* fields into provider JSON.
+        record_ocr_result(
+            provider_arg,
+            provider.get("label", ""),
+            idx,
+            channel,
+            best,
+            matched_title,
+            match_score,
+            decision,
+            score
+        )
+
+        if decision != "ACCEPT" and decision != "VERIFY":
             continue
 
         old = channel.get("show", "")
 
+        # Only update provider JSON when the actual accepted/verified show changes.
         if old != matched_title:
             channel.setdefault("history", []).append({
                 "old": old,
@@ -146,6 +164,7 @@ for idx, channel in enumerate(provider["channels"]):
     except Exception as ex:
         print(f" ERROR: {ex}")
         traceback.print_exc()
+
 
 provider_path.write_text(
     json.dumps(provider, indent=2, ensure_ascii=False),
