@@ -15,18 +15,23 @@
       "id": "peacock.original.01",
       "name": "Peacock Original 1 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64943.ts",
-      "show": "The 'Burbs",
+      "show": "The Burbs",
       "subtitle": "Season 1 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "THE BURBS :",
       "last_ocr_confidence": 32.0,
-      "last_changed": "2026-07-01T15:15:29.604328Z",
+      "last_changed": "2026-07-01T15:30:29.462807Z",
       "history": [
         {
           "old": "The Burbs",
           "new": "The 'Burbs",
           "changed_at": "2026-07-01T15:15:29.604280Z"
+        },
+        {
+          "old": "The 'Burbs",
+          "new": "The Burbs",
+          "changed_at": "2026-07-01T15:30:29.462774Z"
         }
       ],
       "last_ocr_clean": "The Burbs",
