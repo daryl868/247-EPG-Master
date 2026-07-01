@@ -15,14 +15,25 @@
       "id": "peacock.original.01",
       "name": "Peacock Original 1 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64943.ts",
-      "show": "The Burbs",
+      "show": "The 'Burbs",
       "subtitle": "Season 1 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "THE BURBS7)",
-      "last_ocr_confidence": 46.5,
-      "last_changed": "",
-      "history": []
+      "last_ocr_text": "THE BURBS :",
+      "last_ocr_confidence": 32.0,
+      "last_changed": "2026-07-01T15:15:29.604328Z",
+      "history": [
+        {
+          "old": "The Burbs",
+          "new": "The 'Burbs",
+          "changed_at": "2026-07-01T15:15:29.604280Z"
+        }
+      ],
+      "last_ocr_clean": "The Burbs",
+      "last_ocr_match": "The Burbs",
+      "last_ocr_match_score": 100.0,
+      "last_ocr_vote_count": 3,
+      "last_ocr_vote_avg_confidence": 31.78
     },
     {
       "id": "peacock.original.02",
@@ -32,10 +43,15 @@
       "subtitle": "Season 3 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": ":",
-      "last_ocr_confidence": 0.0,
+      "last_ocr_text": "FAULT oo",
+      "last_ocr_confidence": 37.0,
       "last_changed": "",
-      "history": []
+      "history": [],
+      "last_ocr_clean": "Fault Oo",
+      "last_ocr_match": "Fault Oo",
+      "last_ocr_match_score": 45.0,
+      "last_ocr_vote_count": 3,
+      "last_ocr_vote_avg_confidence": 37.0
     },
     {
       "id": "peacock.original.03",
@@ -45,10 +61,15 @@
       "subtitle": "Season 2 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "M.1.A 2026)",
-      "last_ocr_confidence": 64.5,
+      "last_ocr_text": "a",
+      "last_ocr_confidence": 0.0,
       "last_changed": "",
-      "history": []
+      "history": [],
+      "last_ocr_clean": "A",
+      "last_ocr_match": "APEX",
+      "last_ocr_match_score": 90.0,
+      "last_ocr_vote_count": 2,
+      "last_ocr_vote_avg_confidence": 0.0
     },
     {
       "id": "peacock.original.04",
@@ -58,10 +79,15 @@
       "subtitle": "Season 2 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "POKER FACE 975)",
-      "last_ocr_confidence": 65.33,
+      "last_ocr_text": "POKER FACE 0o25)",
+      "last_ocr_confidence": 63.0,
       "last_changed": "",
-      "history": []
+      "history": [],
+      "last_ocr_clean": "Poker Face 0O25",
+      "last_ocr_match": "Poker Face",
+      "last_ocr_match_score": 90.0,
+      "last_ocr_vote_count": 1,
+      "last_ocr_vote_avg_confidence": 63.0
     },
     {
       "id": "peacock.original.05",
@@ -71,8 +97,8 @@
       "subtitle": "Season 4 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "THE TRAITORS 202",
-      "last_ocr_confidence": 70.0,
+      "last_ocr_text": "i,",
+      "last_ocr_confidence": 0.0,
       "last_changed": "2026-06-30T23:14:02.422204Z",
       "history": [
         {
@@ -90,7 +116,12 @@
           "new": "The Traitors",
           "changed_at": "2026-06-30T23:14:02.422139Z"
         }
-      ]
+      ],
+      "last_ocr_clean": "I",
+      "last_ocr_match": "I",
+      "last_ocr_match_score": 60.0,
+      "last_ocr_vote_count": 2,
+      "last_ocr_vote_avg_confidence": 0.0
     },
     {
       "id": "peacock.original.06",
@@ -124,8 +155,8 @@
       "subtitle": "Season 1 (2022)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "THE COPENHAGI",
-      "last_ocr_confidence": 50.5,
+      "last_ocr_text": "THE COPENHAG",
+      "last_ocr_confidence": 70.0,
       "last_changed": "2026-06-30T21:46:33.984455Z",
       "history": [
         {
@@ -143,7 +174,12 @@
           "new": "The Copenhagen Cowboy",
           "changed_at": "2026-06-30T21:46:33.984268Z"
         }
-      ]
+      ],
+      "last_ocr_clean": "The Copenhagen Cowboy",
+      "last_ocr_match": "The Copenhagen Cowboy",
+      "last_ocr_match_score": 100.0,
+      "last_ocr_vote_count": 3,
+      "last_ocr_vote_avg_confidence": 70.0
     },
     {
       "id": "peacock.original.08",
@@ -153,8 +189,8 @@
       "subtitle": "Season 1 (2023)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "TAUE STORY (2023)",
-      "last_ocr_confidence": 92.33,
+      "last_ocr_text": "TRUE STORY (2023)",
+      "last_ocr_confidence": 87.0,
       "last_changed": "2026-06-30T22:02:22.700393Z",
       "history": [
         {
@@ -162,7 +198,12 @@
           "new": "True Story",
           "changed_at": "2026-06-30T22:02:22.700318Z"
         }
-      ]
+      ],
+      "last_ocr_clean": "True Story",
+      "last_ocr_match": "True Story",
+      "last_ocr_match_score": 100.0,
+      "last_ocr_vote_count": 2,
+      "last_ocr_vote_avg_confidence": 83.0
     },
     {
       "id": "peacock.original.09",
@@ -172,8 +213,8 @@
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "PONIES (026)",
-      "last_ocr_confidence": 70.5,
+      "last_ocr_text": "PONIES 202,",
+      "last_ocr_confidence": 67.5,
       "last_changed": "2026-06-30T22:02:41.794091Z",
       "history": [
         {
@@ -186,7 +227,12 @@
           "new": "Ponies",
           "changed_at": "2026-06-30T22:02:41.794067Z"
         }
-      ]
+      ],
+      "last_ocr_clean": "Ponies",
+      "last_ocr_match": "Ponies",
+      "last_ocr_match_score": 100.0,
+      "last_ocr_vote_count": 3,
+      "last_ocr_vote_avg_confidence": 67.5
     },
     {
       "id": "peacock.original.10",
@@ -196,10 +242,15 @@
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "WES...",
-      "last_ocr_confidence": 39.0,
+      "last_ocr_text": "",
+      "last_ocr_confidence": 0.0,
       "last_changed": "",
-      "history": []
+      "history": [],
+      "last_ocr_clean": "",
+      "last_ocr_match": "",
+      "last_ocr_match_score": 0,
+      "last_ocr_vote_count": 1,
+      "last_ocr_vote_avg_confidence": 0.0
     },
     {
       "id": "peacock.original.11",
@@ -209,8 +260,8 @@
       "subtitle": "Season 5 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
-      "last_ocr_text": "LENG pRIGHT",
-      "last_ocr_confidence": 20.5,
+      "last_ocr_text": "Agha Mites",
+      "last_ocr_confidence": 19.0,
       "last_changed": "2026-06-30T21:37:02.777398Z",
       "history": [
         {
@@ -218,7 +269,12 @@
           "new": "Long. Bright",
           "changed_at": "2026-06-30T21:37:02.777371Z"
         }
-      ]
+      ],
+      "last_ocr_clean": "Agha Mites",
+      "last_ocr_match": "Agha Mites",
+      "last_ocr_match_score": 54.0,
+      "last_ocr_vote_count": 3,
+      "last_ocr_vote_avg_confidence": 19.0
     },
     {
       "id": "peacock.original.12",
@@ -229,9 +285,14 @@
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "BEL-AIR (2023)",
-      "last_ocr_confidence": 95.5,
+      "last_ocr_confidence": 95.0,
       "last_changed": "",
-      "history": []
+      "history": [],
+      "last_ocr_clean": "Bel-Air",
+      "last_ocr_match": "Bel-Air",
+      "last_ocr_match_score": 100.0,
+      "last_ocr_vote_count": 3,
+      "last_ocr_vote_avg_confidence": 95.0
     }
   ]
 }
