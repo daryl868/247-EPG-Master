@@ -9,19 +9,28 @@
         <p><strong>Show:</strong> {{ channel.show }}</p>
         <p><strong>Subtitle:</strong> {{ channel.subtitle }}</p>
         <p><strong>Channel ID:</strong> {{ channel.id }}</p>
+        <p><strong>OCR Enabled:</strong> {{ channel.ocr_enabled }}</p>
+        <p><strong>OCR Profile:</strong> {{ channel.ocr_profile }}</p>
     </div>
 
     <div class="card">
-        <h2>OCR Status</h2>
-        <p><strong>Enabled:</strong> {{ channel.ocr_enabled }}</p>
-        <p><strong>Profile:</strong> {{ channel.ocr_profile }}</p>
-        <p><strong>Last OCR Text:</strong> {{ channel.last_ocr_text }}</p>
-        <p><strong>Clean:</strong> {{ channel.last_ocr_clean }}</p>
-        <p><strong>Confidence:</strong> {{ channel.last_ocr_confidence }}</p>
-        <p><strong>Match:</strong> {{ channel.last_ocr_match }}</p>
-        <p><strong>Match Score:</strong> {{ channel.last_ocr_match_score }}</p>
-        <p><strong>Vote Count:</strong> {{ channel.last_ocr_vote_count }}</p>
-        <p><strong>Vote Avg:</strong> {{ channel.last_ocr_vote_avg_confidence }}</p>
+        <h2>Latest OCR</h2>
+        {% if latest_ocr %}
+            <p><strong>Raw:</strong> {{ latest_ocr.raw_text }}</p>
+            <p><strong>Clean:</strong> {{ latest_ocr.clean_title }}</p>
+            <p><strong>Matched:</strong> {{ latest_ocr.matched_title }}</p>
+            <p><strong>Confidence:</strong> {{ latest_ocr.confidence }}</p>
+            <p><strong>Match Score:</strong> {{ latest_ocr.match_score }}</p>
+            <p><strong>Vote:</strong> {{ latest_ocr.vote_count }} / {{ latest_ocr.vote_avg_confidence }}</p>
+            <p><strong>Decision:</strong>
+                <span class="{% if latest_ocr.decision == 'ACCEPT' %}ok{% elif latest_ocr.decision == 'VERIFY' %}warn{% else %}bad{% endif %}">
+                    {{ latest_ocr.decision }}
+                </span>
+            </p>
+            <p><strong>Last Scan:</strong> {{ latest_ocr.created_at }}</p>
+        {% else %}
+            <p>No OCR result recorded yet.</p>
+        {% endif %}
     </div>
 </div>
 
@@ -31,34 +40,73 @@
     <a class="button" href="/providers/{{ file_name }}">Back to Provider</a>
 </div>
 
+{% if latest_ocr %}
+<div class="grid">
+    <div class="card">
+        <h2>Latest Frame</h2>
+        {% if latest_ocr.frame_path %}
+            <a href="/{{ latest_ocr.frame_path }}" target="_blank">
+                <img class="preview" src="/{{ latest_ocr.frame_path }}">
+            </a>
+        {% else %}
+            <p>No frame saved.</p>
+        {% endif %}
+    </div>
+
+    <div class="card">
+        <h2>Latest OCR Crop</h2>
+        {% if latest_ocr.crop_path %}
+            <a href="/{{ latest_ocr.crop_path }}" target="_blank">
+                <img class="preview" src="/{{ latest_ocr.crop_path }}">
+            </a>
+        {% else %}
+            <p>No crop saved.</p>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+
 <div class="card wide">
-    <h2>Stream URL</h2>
-    <pre>{{ channel.stream_url }}</pre>
+    <h2>OCR History</h2>
+
+    {% if ocr_history %}
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Raw</th>
+                <th>Clean</th>
+                <th>Matched</th>
+                <th>Confidence</th>
+                <th>Score</th>
+                <th>Vote</th>
+                <th>Decision</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for r in ocr_history %}
+            <tr>
+                <td>{{ r.created_at }}</td>
+                <td>{{ r.raw_text }}</td>
+                <td>{{ r.clean_title }}</td>
+                <td>{{ r.matched_title }}</td>
+                <td>{{ r.confidence }}</td>
+                <td>{{ r.decision_score }}</td>
+                <td>{{ r.vote_count }}</td>
+                <td class="{% if r.decision == 'ACCEPT' %}ok{% elif r.decision == 'VERIFY' %}warn{% else %}bad{% endif %}">
+                    {{ r.decision }}
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+        <p>No OCR history yet.</p>
+    {% endif %}
 </div>
 
 <div class="card wide">
-    <h2>History</h2>
-    {% if channel.history %}
-        <table>
-            <thead>
-                <tr>
-                    <th>Old</th>
-                    <th>New</th>
-                    <th>Changed At</th>
-                </tr>
-            </thead>
-            <tbody>
-            {% for h in channel.history %}
-                <tr>
-                    <td>{{ h.old }}</td>
-                    <td>{{ h.new }}</td>
-                    <td>{{ h.changed_at }}</td>
-                </tr>
-            {% endfor %}
-            </tbody>
-        </table>
-    {% else %}
-        <p>No history yet.</p>
-    {% endif %}
+    <h2>Stream URL</h2>
+    <pre>{{ channel.stream_url }}</pre>
 </div>
 {% endblock %}
