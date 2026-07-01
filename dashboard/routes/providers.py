@@ -1,8 +1,7 @@
-from flask import Blueprint, render_template, redirect, url_for
+from flask import Blueprint, render_template
 from pathlib import Path
 import json
 import subprocess
-import sys
 
 ROOT = Path(__file__).resolve().parents[2]
 providers_bp = Blueprint("providers", __name__)
@@ -71,9 +70,16 @@ def live_ocr(file_name, channel_index):
         str(channel_index)
     ])
 
+    parsed = None
+    try:
+        parsed = json.loads(output)
+    except Exception:
+        parsed = None
+
     return render_template(
         "live_ocr.html",
         file_name=file_name,
         channel_index=channel_index,
-        output=output
+        output=output,
+        parsed=parsed
     )
