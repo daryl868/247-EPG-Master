@@ -3,13 +3,31 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# OCR Debug
-debug/
-test.png
-
 # Virtual Environment
 venv/
 .env
 
+# Secrets
+config/tmdb.json
+
+# Metadata Cache
+data/metadata/
+
+# OCR Debug
+debug/
+test.png
+
+# Backup Files
+*.bak
+*.tmp
+*.log
+
 # macOS
 .DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
