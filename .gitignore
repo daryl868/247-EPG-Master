@@ -25,3 +25,7 @@ config/tmdb.json
 *.log
 
 data/metadata/
+
+# Runtime OCR images
+data/screenshots/
+data/crops/

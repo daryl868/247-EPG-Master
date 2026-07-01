@@ -24,8 +24,10 @@
     </div>
 
     <div class="card">
-        <h2>OCR Crop</h2>
-        {% if parsed.best.crop %}
+        <h2>Best Crop</h2>
+        {% if parsed.best.archived_crop %}
+            <img class="preview" src="/{{ parsed.best.archived_crop }}">
+        {% elif parsed.best.crop %}
             <img class="preview" src="/{{ parsed.best.crop }}">
         {% else %}
             <p>No crop available.</p>
@@ -34,15 +36,21 @@
 </div>
 
 <div class="card wide">
-    <h2>Captured Frames</h2>
+    <h2>Captured Frames & Crops</h2>
 
     <div class="frame-grid">
         {% for r in parsed.results %}
         <div class="frame-card">
             <h3>Frame {{ r.frame }} @ {{ r.second }}s</h3>
 
-            {% if r.crop %}
-                <img class="preview" src="/{{ r.crop }}">
+            {% if r.archived_frame %}
+                <p><strong>Frame:</strong></p>
+                <img class="preview" src="/{{ r.archived_frame }}">
+            {% endif %}
+
+            {% if r.archived_crop %}
+                <p><strong>Crop:</strong></p>
+                <img class="preview" src="/{{ r.archived_crop }}">
             {% endif %}
 
             <p><strong>Raw:</strong> {{ r.raw }}</p>
@@ -63,6 +71,7 @@
                 <th>Raw OCR</th>
                 <th>Clean OCR</th>
                 <th>Confidence</th>
+                <th>Frame</th>
                 <th>Crop</th>
             </tr>
         </thead>
@@ -75,8 +84,13 @@
                 <td>{{ r.clean }}</td>
                 <td>{{ r.confidence }}</td>
                 <td>
-                    {% if r.crop %}
-                        <a class="button blue" href="/{{ r.crop }}" target="_blank">Open Crop</a>
+                    {% if r.archived_frame %}
+                        <a class="button blue" href="/{{ r.archived_frame }}" target="_blank">Open Frame</a>
+                    {% endif %}
+                </td>
+                <td>
+                    {% if r.archived_crop %}
+                        <a class="button blue" href="/{{ r.archived_crop }}" target="_blank">Open Crop</a>
                     {% endif %}
                 </td>
             </tr>
