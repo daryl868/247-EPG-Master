@@ -22,6 +22,7 @@ def list_providers():
     for path in sorted((ROOT / "providers").glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         channels = data.get("channels", [])
+
         providers.append({
             "file": path.name,
             "label": data.get("label", path.stem),
@@ -71,6 +72,7 @@ def live_ocr(file_name, channel_index):
     ])
 
     parsed = None
+
     try:
         parsed = json.loads(output)
     except Exception:

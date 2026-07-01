@@ -1,11 +1,13 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>Live OCR Monitor</h1>
+<h1>Live OCR Inspector</h1>
 
 <div class="card">
     <p><strong>Provider:</strong> {{ file_name }}</p>
     <p><strong>Channel Index:</strong> {{ channel_index }}</p>
+    <a class="button green" href="/providers/{{ file_name }}/channel/{{ channel_index }}/live-ocr">Run Again</a>
+    <a class="button" href="/providers/{{ file_name }}/channel/{{ channel_index }}">Back to Channel</a>
 </div>
 
 {% if parsed %}
@@ -26,20 +28,40 @@
         {% if parsed.best.crop %}
             <img class="preview" src="/{{ parsed.best.crop }}">
         {% else %}
-            <p>No crop image available.</p>
+            <p>No crop available.</p>
         {% endif %}
     </div>
 </div>
 
 <div class="card wide">
-    <h2>Frame Results</h2>
+    <h2>Captured Frames</h2>
+
+    <div class="frame-grid">
+        {% for r in parsed.results %}
+        <div class="frame-card">
+            <h3>Frame {{ r.frame }} @ {{ r.second }}s</h3>
+
+            {% if r.crop %}
+                <img class="preview" src="/{{ r.crop }}">
+            {% endif %}
+
+            <p><strong>Raw:</strong> {{ r.raw }}</p>
+            <p><strong>Clean:</strong> {{ r.clean }}</p>
+            <p><strong>Confidence:</strong> {{ r.confidence }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="card wide">
+    <h2>Frame Results Table</h2>
     <table>
         <thead>
             <tr>
                 <th>Frame</th>
                 <th>Second</th>
-                <th>Raw</th>
-                <th>Clean</th>
+                <th>Raw OCR</th>
+                <th>Clean OCR</th>
                 <th>Confidence</th>
                 <th>Crop</th>
             </tr>
@@ -54,7 +76,7 @@
                 <td>{{ r.confidence }}</td>
                 <td>
                     {% if r.crop %}
-                        <a class="button blue" href="/{{ r.crop }}" target="_blank">View Crop</a>
+                        <a class="button blue" href="/{{ r.crop }}" target="_blank">Open Crop</a>
                     {% endif %}
                 </td>
             </tr>
@@ -65,9 +87,7 @@
 {% endif %}
 
 <div class="card wide">
-    <h2>Raw Output</h2>
+    <h2>Raw JSON Output</h2>
     <pre>{{ output }}</pre>
 </div>
-
-<a class="button" href="/providers/{{ file_name }}/channel/{{ channel_index }}">Back to Channel</a>
 {% endblock %}
