@@ -64,11 +64,11 @@ for idx, channel in enumerate(provider["channels"]):
         channel["last_ocr_confidence"] = confidence
 
         # Require BOTH OCR confidence AND fuzzy match confidence
-        if confidence < 35:
+        if confidence < 50:
             print(" Skipped (low OCR confidence)")
             continue
 
-        if match_score < 85:
+        if match_score < 95:
             print(" Skipped (poor fuzzy match)")
             continue
 
