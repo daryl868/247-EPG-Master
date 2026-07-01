@@ -108,13 +108,13 @@
       "id": "peacock.original.05",
       "name": "Peacock Original 5 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64947.ts",
-      "show": "The Traitors O2",
+      "show": "The Traitors",
       "subtitle": "Season 4 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "i,",
       "last_ocr_confidence": 0.0,
-      "last_changed": "2026-07-01T17:16:53.130513Z",
+      "last_changed": "2026-07-01T17:46:22.366667Z",
       "history": [
         {
           "old": "Resident Alien",
@@ -145,6 +145,11 @@
           "old": "The Traitors",
           "new": "The Traitors O2",
           "changed_at": "2026-07-01T17:16:53.130478Z"
+        },
+        {
+          "old": "The Traitors O2",
+          "new": "The Traitors",
+          "changed_at": "2026-07-01T17:46:22.366640Z"
         }
       ],
       "last_ocr_clean": "I",
@@ -286,13 +291,13 @@
       "id": "peacock.original.11",
       "name": "Peacock Original 11 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64953.ts",
-      "show": "Long Bright River",
+      "show": "Long. Bright",
       "subtitle": "Season 5 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "Agha Mites",
       "last_ocr_confidence": 19.0,
-      "last_changed": "2026-07-01T17:04:28.769030Z",
+      "last_changed": "2026-07-01T17:48:18.168619Z",
       "history": [
         {
           "old": "Law & Order: Organized Crime",
@@ -303,6 +308,11 @@
           "old": "Long. Bright",
           "new": "Long Bright River",
           "changed_at": "2026-07-01T17:04:28.769006Z"
+        },
+        {
+          "old": "Long Bright River",
+          "new": "Long. Bright",
+          "changed_at": "2026-07-01T17:48:18.168543Z"
         }
       ],
       "last_ocr_clean": "Agha Mites",
