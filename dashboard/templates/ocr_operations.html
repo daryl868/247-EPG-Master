@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>OCR Operations Center</h1>
+
+<div class="stats">
+    <div class="stat"><span>{{ stats.total }}</span><label>Total OCR Runs</label></div>
+    <div class="stat"><span>{{ stats.accepted }}</span><label>Accepted</label></div>
+    <div class="stat"><span>{{ stats.verified }}</span><label>Verified</label></div>
+    <div class="stat"><span>{{ stats.rejected }}</span><label>Rejected</label></div>
+    <div class="stat"><span>{{ stats.average_confidence }}</span><label>Avg Confidence</label></div>
+</div>
+
+<div class="card wide">
+    <h2>Live OCR Channels</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Provider</th>
+                <th>Channel</th>
+                <th>Configured Show</th>
+                <th>Detected</th>
+                <th>Confidence</th>
+                <th>Vote</th>
+                <th>Decision</th>
+                <th>Last Scan</th>
+                <th>Open</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for c in channels %}
+            <tr id="row-{{ c.provider_file }}-{{ c.channel_index }}">
+                <td>{{ c.provider_label }}</td>
+                <td>{{ c.channel_name }}</td>
+                <td>{{ c.configured_show }}</td>
+
+                <td id="detected-{{ c.provider_file }}-{{ c.channel_index }}">
+                    {{ c.latest.matched_title if c.latest else "" }}
+                </td>
+
+ <td id="confidence-{{ c.provider_file }}-{{ c.channel_index }}">
+    {% if c.latest %}
+        <div class="progress">
+            <div class="progress-fill" style="width: {{ c.latest.confidence }}%;">
+                {{ "%.1f"|format(c.latest.confidence) }}%
+            </div>
+        </div>
+    {% endif %}
+</td>
+                <td id="vote-{{ c.provider_file }}-{{ c.channel_index }}">
+                    {{ c.latest.vote_count if c.latest else "" }}
+                </td>
+
+                <td id="decision-{{ c.provider_file }}-{{ c.channel_index }}"
+                    class="{% if c.latest and c.latest.decision == 'ACCEPT' %}ok{% elif c.latest and c.latest.decision == 'VERIFY' %}warn{% else %}bad{% endif %}">
+                    {{ c.latest.decision if c.latest else "NO DATA" }}
+                </td>
+
+                <td id="scan-{{ c.provider_file }}-{{ c.channel_index }}">
+                    {{ c.latest.created_at if c.latest else "" }}
+                </td>
+
+                <td>
+                    <a class="button blue" href="/providers/{{ c.provider_file }}/channel/{{ c.channel_index }}">
+                        View
+                    </a>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<script src="/static/js/ocr_live.js"></script>
+{% endblock %}
