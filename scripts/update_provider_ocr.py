@@ -5,11 +5,12 @@ from datetime import datetime
 import json
 import sys
 import subprocess
-
-from dashboard.services.db_service import record_ocr_result
+import traceback
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
+
+from dashboard.services.db_service import record_ocr_result
 
 from ocr.engine import test_channel
 from processing.matcher import match_title
@@ -144,6 +145,7 @@ for idx, channel in enumerate(provider["channels"]):
 
     except Exception as ex:
         print(f" ERROR: {ex}")
+        traceback.print_exc()
 
 provider_path.write_text(
     json.dumps(provider, indent=2, ensure_ascii=False),
