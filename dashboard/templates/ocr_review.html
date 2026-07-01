@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>OCR Review</h1>
+
+<div class="card wide">
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Provider</th>
+                <th>Channel</th>
+                <th>Raw OCR</th>
+                <th>Clean</th>
+                <th>Match</th>
+                <th>Conf</th>
+                <th>Score</th>
+                <th>Decision</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for r in rows %}
+            <tr>
+                <td>{{ r.created_at }}</td>
+                <td>{{ r.provider_label }}</td>
+                <td>{{ r.channel_name }}</td>
+                <td>{{ r.raw_text }}</td>
+                <td>{{ r.clean_title }}</td>
+                <td>{{ r.matched_title }}</td>
+                <td>{{ r.confidence }}</td>
+                <td>{{ r.decision_score }}</td>
+                <td class="{% if r.decision == 'ACCEPT' %}ok{% else %}warn{% endif %}">
+                    {{ r.decision }}
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

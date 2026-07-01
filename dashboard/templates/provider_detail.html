@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ provider.label }}</h1>
+
+<div class="card">
+    <p><strong>File:</strong> {{ file_name }}</p>
+    <p><strong>Total Channels:</strong> {{ channels|length }}</p>
+</div>
+
+<div class="card wide">
+    <h2>Channels</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Current Show</th>
+                <th>Subtitle</th>
+                <th>OCR</th>
+                <th>Confidence</th>
+                <th>Match</th>
+                <th>Score</th>
+                <th>Open</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for c in channels %}
+            <tr>
+                <td>{{ c.name }}</td>
+                <td>{{ c.show }}</td>
+                <td>{{ c.subtitle }}</td>
+                <td>{{ "Enabled" if c.ocr_enabled else "Disabled" }}</td>
+                <td>{{ c.last_ocr_confidence or "" }}</td>
+                <td>{{ c.last_ocr_match or "" }}</td>
+                <td>{{ c.last_ocr_match_score or "" }}</td>
+                <td><a class="button blue" href="/providers/{{ file_name }}/channel/{{ loop.index0 }}">View</a></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<a class="button" href="/providers/">Back</a>
+{% endblock %}

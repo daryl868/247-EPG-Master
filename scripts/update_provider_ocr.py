@@ -6,6 +6,8 @@ import json
 import sys
 import subprocess
 
+from dashboard.services.db_service import record_ocr_result
+
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 

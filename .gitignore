@@ -1,33 +1,27 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
 
 # Virtual Environment
 venv/
 .env
 
-# Secrets
-config/tmdb.json
-
-# Metadata Cache
-data/metadata/
-
 # OCR Debug
 debug/
-test.png
 
-# Backup Files
-*.bak
-*.tmp
-*.log
+# SQLite databases
+*.db
+
+# Vim
+*.swp
 
 # macOS
 .DS_Store
 
-# IDE
-.vscode/
-.idea/
+# Local secrets
+config/tmdb.json
 
-# OS
-Thumbs.db
+# Runtime files
+*.log
+
+data/metadata/

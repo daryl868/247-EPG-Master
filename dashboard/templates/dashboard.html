@@ -45,7 +45,7 @@
         <tbody>
         {% for p in providers %}
             <tr>
-                <td>{{ p.label }}</td>
+                <td><a class="link" href="/providers/{{ p.file }}">{{ p.label }}</a></td>
                 <td>{{ p.file }}</td>
                 <td>{{ p.channels }}</td>
                 <td>{{ p.ocr_enabled }}</td>

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Live OCR Result</h1>
+
+<div class="card wide">
+    <h2>Provider: {{ file_name }}</h2>
+    <p><strong>Channel Index:</strong> {{ channel_index }}</p>
+    <pre>{{ output }}</pre>
+</div>
+
+<a class="button" href="/providers/{{ file_name }}/channel/{{ channel_index }}">Back to Channel</a>
+{% endblock %}
