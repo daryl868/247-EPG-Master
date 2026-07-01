@@ -249,13 +249,13 @@
       "id": "peacock.original.09",
       "name": "Peacock Original 9 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64951.ts",
-      "show": "PONIES",
+      "show": "Ponies",
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "PONIES 202,",
       "last_ocr_confidence": 67.5,
-      "last_changed": "2026-07-01T18:03:19.833358Z",
+      "last_changed": "2026-07-01T18:18:38.167514Z",
       "history": [
         {
           "old": "Mr. Throwback",
@@ -271,6 +271,11 @@
           "old": "Ponies",
           "new": "PONIES",
           "changed_at": "2026-07-01T18:03:19.833332Z"
+        },
+        {
+          "old": "PONIES",
+          "new": "Ponies",
+          "changed_at": "2026-07-01T18:18:38.167478Z"
         }
       ],
       "last_ocr_clean": "Ponies",
