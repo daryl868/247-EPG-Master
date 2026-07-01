@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
-from flask import Flask, send_from_directory
 from pathlib import Path
+
+try:
+    from flask import Flask, send_from_directory
+except ImportError as e:
+    raise ImportError("Flask is not installed. Install it with: pip install flask") from e
 
 from routes.dashboard import dashboard_bp
 from routes.providers import providers_bp
@@ -8,6 +12,7 @@ from routes.logs import logs_bp
 from routes.actions import actions_bp
 from routes.ocr import ocr_bp
 from routes.operations import operations_bp
+from routes.api import api_bp
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -23,6 +28,7 @@ app.register_blueprint(logs_bp, url_prefix="/logs")
 app.register_blueprint(actions_bp, url_prefix="/actions")
 app.register_blueprint(ocr_bp, url_prefix="/ocr")
 app.register_blueprint(operations_bp, url_prefix="/operations")
+app.register_blueprint(api_bp, url_prefix="/api")
 
 @app.route("/debug/<path:filename>")
 def debug_files(filename):
