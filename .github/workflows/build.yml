@@ -42,8 +42,19 @@ jobs:
       - name: Build XMLTV and M3U
         run: python scripts/build_epg.py
 
-      - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update generated EPG Vision Studio files"
-          file_pattern: "generated/*.xml generated/*.m3u"
+            - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add generated/*.xml generated/*.m3u
+
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update generated EPG Vision Studio files"
+
+          git pull --rebase origin main
+          git push origin main
