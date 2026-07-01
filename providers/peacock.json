@@ -108,13 +108,13 @@
       "id": "peacock.original.05",
       "name": "Peacock Original 5 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64947.ts",
-      "show": "The Traitors",
+      "show": "The Traitors O2",
       "subtitle": "Season 4 (2025)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "i,",
       "last_ocr_confidence": 0.0,
-      "last_changed": "2026-07-01T17:46:22.366667Z",
+      "last_changed": "2026-07-01T18:02:19.470800Z",
       "history": [
         {
           "old": "Resident Alien",
@@ -150,6 +150,11 @@
           "old": "The Traitors O2",
           "new": "The Traitors",
           "changed_at": "2026-07-01T17:46:22.366640Z"
+        },
+        {
+          "old": "The Traitors",
+          "new": "The Traitors O2",
+          "changed_at": "2026-07-01T18:02:19.470770Z"
         }
       ],
       "last_ocr_clean": "I",
@@ -244,13 +249,13 @@
       "id": "peacock.original.09",
       "name": "Peacock Original 9 ᴴᴰ",
       "stream_url": "http://goiptv.club:80/81696815/96058230/64951.ts",
-      "show": "Ponies",
+      "show": "PONIES",
       "subtitle": "Season 1 (2024)",
       "ocr_enabled": true,
       "ocr_profile": "peacock_title_top_left",
       "last_ocr_text": "PONIES 202,",
       "last_ocr_confidence": 67.5,
-      "last_changed": "2026-06-30T22:02:41.794091Z",
+      "last_changed": "2026-07-01T18:03:19.833358Z",
       "history": [
         {
           "old": "Mr. Throwback",
@@ -261,6 +266,11 @@
           "old": "Ponies 026",
           "new": "Ponies",
           "changed_at": "2026-06-30T22:02:41.794067Z"
+        },
+        {
+          "old": "Ponies",
+          "new": "PONIES",
+          "changed_at": "2026-07-01T18:03:19.833332Z"
         }
       ],
       "last_ocr_clean": "Ponies",
